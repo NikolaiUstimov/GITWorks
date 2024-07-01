@@ -10,8 +10,9 @@ body {
     padding: 20px 0;
 }
 
-div {
-    max-width: 1200px;
+span {
+    color: red;
+    border: 1px solid blue;
 }
 
 .container {
